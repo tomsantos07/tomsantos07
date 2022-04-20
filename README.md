@@ -1,4 +1,4 @@
-<h1> Falaê! Eu sou Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hello, my friend! Eu sou Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - Desenvolvedor FullStack jr
 
