@@ -2,9 +2,9 @@
 
 - Desenvolvedor FullStack jr
 
-- Atualmente sou desenvolvedor Freelance e meu portfólio está em construção ()
+- Atualmente sou desenvolvedor Freelance e aqui está meu repositório: (https://github.com/tomsantos07?tab=repositories)
 
-- Respondo perguntas sobre **Javascript, HTML, CSS, SQL, Node.Js, ReactJs, Bootstrap**
+- Respondo perguntas sobre **Javascript, HTML, CSS**
 
 <br><br>
 
