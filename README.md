@@ -1,10 +1,10 @@
-<h1> Hello, my friend! Eu sou Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hello, there! This is Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - Desenvolvedor FullStack jr
 
-- Atualmente sou desenvolvedor Freelance e aqui está meu repositório: (https://github.com/tomsantos07?tab=repositories)
+- Atualmente sou desenvolvedor júnior e aqui está meu repositório: (https://github.com/tomsantos07?tab=repositories)
 
-- Respondo perguntas sobre **Javascript, HTML, CSS**
+- Estudando as trilhas **Javascript, HTML, CSS, NodeJs e React**
 
 <br><br>
 
