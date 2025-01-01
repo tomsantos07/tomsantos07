@@ -1,8 +1,8 @@
 <h1> Hello, there! This is Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- Desenvolvedor FullStack jr
+- Estudante de Análise e Desenvolvimento de Sistemas (1 Período)
 
-- Atualmente sou desenvolvedor júnior e aqui está meu repositório: (https://github.com/tomsantos07?tab=repositories)
+- Repositório em Construção: (https://github.com/tomsantos07?tab=repositories)
 
 - Estudando as trilhas **Javascript, HTML, CSS, NodeJs e React**
 
