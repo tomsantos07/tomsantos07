@@ -4,7 +4,7 @@
 
 - Repositório em Construção: (https://github.com/tomsantos07?tab=repositories)
 
-- Estudando as trilhas **Javascript, HTML, CSS, NodeJs e React**
+- Estudando as trilhas **Python, SQL, Javascript, HTML, CSS, NodeJs e React**
 
 <br><br>
 
