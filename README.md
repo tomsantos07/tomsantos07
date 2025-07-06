@@ -1,6 +1,6 @@
 <h1> Hello, there! This is Tom Santos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- Estudante de Análise e Desenvolvimento de Sistemas (1 Período)
+- Análise e Desenvolvimento de Sistemas (2 Período)
 
 - Repositório em Construção: (https://github.com/tomsantos07?tab=repositories)
 
